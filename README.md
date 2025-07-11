@@ -28,7 +28,7 @@ With 0 millisecond interval, the focused application may freeze.
 
 # Installing
 
-[Download]()
+[Download](https://github.com/user-attachments/files/21182106/XCLICKER.zip)
 
 # Contributing
 
